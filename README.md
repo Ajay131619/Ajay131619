@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on projects based on DevOps with AWS 
 - 📫 How to reach me -> contact me through pachhinela.ajay@gmail.com
-- 😄 Pronouns: AJ
 - ⚡ fact: Having something is a way better than nothing  
 
 <!---
