@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajay131619
-- 👀 I’m interested in DevOps emgineering
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in DevOps engineering
+- 🌱 I’m currently learning DevOps concepts
 - 💞️ I’m looking to collaborate on projects based on DevOps with AWS 
 - 📫 How to reach me -> contact me through pachhinela.ajay@gmail.com
 - ⚡ fact: Having something is a way better than nothing  
